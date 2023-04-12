@@ -41,4 +41,3 @@ ortalama=toplam/4
 print(ortalama) 
 """
 #del liste[silmek istediğimiz eleman] elaman çıkarır
-#demet
